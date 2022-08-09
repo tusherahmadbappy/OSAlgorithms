@@ -1,3 +1,12 @@
+// The biggest advantage of paging is that it is easy to use memory management
+//algorithm. 
+// Paging may cause internal fragmentation.
+// Segmentation method works almost similarly to paging, only difference between the two
+//is that segments are of variable-length whereas, in the paging method, pages are always
+//of fixed size.
+// Swapping is easy between equal-sized pages and page frames.
+
+
 #include<stdio.h>
 #include<stdlib.h>
 
