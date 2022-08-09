@@ -1,3 +1,10 @@
+// It is simple and easy to understand & implement.
+// It is efficiently used for small systems
+// It does not cause more overheads
+// The process effectiveness is low.
+// When we increase the number of frames while using FIFO, we are giving more memory
+//to processes. So, page fault should decrease, but here the page faults are increasing.
+
 #include<stdio.h>
 
 int main()
