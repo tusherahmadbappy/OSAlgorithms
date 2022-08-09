@@ -1,3 +1,11 @@
+// MVT (Multiprogramming with a Variable number of Tasks) is the memory management
+//technique in which each job gets just the amount of memory it needs.
+// That is, the partitioning of memory is dynamic and changes as jobs enter and leave the
+//system.
+// MVT is a more "efficient" user of resources.
+// MFT suffers with the problem of internal fragmentation
+
+
 #include<stdio.h>
 
 int main()
