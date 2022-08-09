@@ -1,3 +1,9 @@
+//Round Robin is the premetive process scheduling algorithm
+//Each process is provided a fix time to execute, it is called quantam.
+//Once a process is execute for a given time preiod it is premetive and other process
+//execute for a given time preiod.
+//Context swiching is used to save states of preemptev process.
+
 #include<stdio.h>
 
 int main()
